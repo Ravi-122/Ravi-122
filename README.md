@@ -1,7 +1,9 @@
-## Hi,I'm Ravi Kumar Mallipudi 👋
-## Python Developer|Aspiring Cybersecurity Professional
-I'm passionate about cybersecurity, software development, data analytics, and building practical solutions using Python and SQL. I enjoy exploring security tools, solving technical problems, and continuously improving my development skills
-##
+<div align="center">
+# Hi,I'm Ravi Kumar Mallipudi 👋
+## Python Developer | Cybersecurity | Cloud
+I'm passionate about cybersecurity, software development, data analytics, and building practical solutions using Python and SQL. I enjoy exploring security tools, solving technical problems, and continuously improving my development skills.
+</div>
+## 👨‍💻About Me
 <!--
 **Ravi-122/Ravi-122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
